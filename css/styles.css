@@ -2,8 +2,13 @@
   background-color: #75b0ec;
 }
 
-.fun {
+.entertainment {
   background-color: #338be3
+}
+
+.fun {
+  border: 5px solid #344054;
+  height: 800px;
 }
 
 #me {
@@ -11,5 +16,10 @@
   padding: 10px;
   border: #34669c solid 15px;
   margin-left: 20px;
+  height: 200px;
+}
+
+img {
   height: 150px;
+  width: 200px;
 }
