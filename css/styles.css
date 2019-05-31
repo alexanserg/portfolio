@@ -5,3 +5,11 @@
 .fun {
   background-color: #338be3
 }
+
+#me {
+  float: right;
+  padding: 10px;
+  border: #34669c solid 15px;
+  margin-left: 20px;
+  height: 150px;
+}
