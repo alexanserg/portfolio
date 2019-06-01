@@ -23,3 +23,7 @@ img {
   height: 150px;
   width: 200px;
 }
+
+span {
+  font-style: italic;
+}
